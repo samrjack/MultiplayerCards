@@ -1,0 +1,6 @@
+This is a file to plan out the project as I go along.
+
+Here are some ways I want to break down the tasks:
+* I want to Make states to transition between for the different pages
+* I want to figure out what pieces should be seporated out
+* Need to create server side state to streamline games
